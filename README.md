@@ -1,4 +1,4 @@
-# Landing_page
+# Responsive Landing Page
 
 Below is a link to the webpage:
 
